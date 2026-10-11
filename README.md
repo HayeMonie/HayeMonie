@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm now focus on AI, game design, philosophy,reading, fitness, bars and pubs, diet, mahjong without wager, etc.
 
 <!--
 **HayeMonie/HayeMonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
